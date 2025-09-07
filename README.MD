@@ -1,3 +1,4 @@
+# Linux on TV box analysis
 
 |PAY TV PROVIDER| MODEL |YEAR	|	OEM/ODM	|CODE NAME|SOC	|CPU	|GPU	|RAM|	Storage	|ANDROID TV	| BROADCAST	| |
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -8,3 +9,5 @@
 
 https://wikidevi.wi-cat.ru/Arcadyan
 https://wikidevi.wi-cat.ru/Swisscom_TV_Box_HD
+https://www.capa9.net/temas/cambiar-firmware-a-deco-tv-box-entel.1130129/page-18
+https://xdaforums.com/t/how-to-flash-swisscom-tv-box-2019-o-arcadyan-ip2000-hmb2213uw22-v-lsw.4718537/
